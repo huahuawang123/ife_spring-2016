@@ -2,7 +2,7 @@
 Demo-address:http://huahuawang123.github.io/ife_spring-2016/task01/task01.html
 </p>
 <p>
-Code-address:https://github.com/huahuawang123/ife_spring-2016/blob/master/task01/task01.html
+Code-address:https://github.com/huahuawang123/ife_spring-2016/blob/gh-pages/task01/task01.html
 </p>
 
 面向人群：
