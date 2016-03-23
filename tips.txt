@@ -1,0 +1,9 @@
+1. how to create directory:
+create file, add "/" as suffix of file name
+
+2. how to create demo link:
+add gh-pages branch, pull all master branch things to it.
+If you want to leave gh-pages branch as headquarter, you must first modify the default branch as "gh-pages" in settings before deleting master branch.
+
+Then access:
+http://<username>.github.io/<projectname>/hello.html
