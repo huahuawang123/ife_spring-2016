@@ -1,6 +1,6 @@
-<p> Demo-address:http://huahuawang123.github.io/ife_spring-2016/task01/task01.html
+<p> Demo-address:http://huahuawang123.github.io/ife_spring-2016/task02/task02.html
 </p>
-<p>Code-address:https://github.com/huahuawang123/ife_spring-2016/blob/master/task01/task01.html 
+<p>Code-address:https://github.com/huahuawang123/ife_spring-2016/blob/master/task02/task02.html 
 </p>
 
 面向人群：
