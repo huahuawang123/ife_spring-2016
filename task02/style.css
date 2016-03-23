@@ -2,17 +2,57 @@ body{
 	background-color: #dedede;
 }
 
-.nav {
-	background-color: #333;
+nav {
 	width: 100%;
 	height: 60px;
+	background-color: #333;
 	overflow: hidden;
 }
-
-.nav .nav_logo{
-	float: left:
+nav .logo {
+	float: left;
 	width: 120px;
 	height: 40px;
 	margin: 10px 0 10px 40px;
 	background-image: url(images/bd_logo.png);
+} 
+nav .nav_list {
+	float: right;
+	margin: 10px 20px 10px 0;
+} 
+.nav_list li {
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	margin-right: 20px;
+	list-style-position: inside
 }
+
+.nav_list li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+article{
+	padding: 20px; 
+	margin-top: 20px; 
+	background-color: #fff; 
+	box-shadow: 2px 2px 2px #aaa;
+}
+
+
+aside{
+	box-sizing:border-box; 
+	padding: 20px; margin-top: 
+	20px; background-color: 
+	#fff; box-shadow: 2px 2px 2px #aaa; margin-bottom: 20px;}
+        aside h1{border-left: 3px #ccc solid; line-height: 2em; padding-left: 10px; margin: 0;}
+        aside input, aside textarea{border: 1px #999 solid; outline: none; }
+        aside input{padding: 3px}
+
+        aside form > div{margin: 10px 0}
+        aside .input-title{width: 30%; display: inline-block; vertical-align: top; text-align: right; margin-right: 10px;}
+        aside .input-tip{margin-left: 30%; padding-left: 10px;}
+        aside textarea{height: 50px; width: 400px; }
+
+        aside button{background: rgb(28, 99, 221); line-height: 3em; border-radius: 10px; border: 0; outline: none; color: #fff; width: 100%;}
